@@ -1,9 +1,8 @@
 import random
 
-# RPS -- Rock, Paper or Scissor
+# RPS -- Rock, Paper or Scissor
 
-# moves = ['R', 'P', 'S']
-# moves = [0, 1, 2]
+
 moves = ['Rock', 'Paper', 'Scissor']
 
 
